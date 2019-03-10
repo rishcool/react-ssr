@@ -1,4 +1,4 @@
-# React SSR + code splitting + Webpack 4 + React Router v4 + SCSS
+# React SSR + Redux + code splitting + Webpack 4.xx + React Router v4 + SCSS
 
 ## Pre requirements
 * [Node.js](https://nodejs.org/)
