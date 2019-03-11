@@ -19,3 +19,6 @@ $ npm start
 ```
 
 Service available on `localhost:3003`
+
+* You can also check it out blog on it "[Link](https://medium.com/@rishabhtrivedi_39085/react-ssr-redux-code-splitting-webpack-4-xx-react-router-v4-scss-pwa-8a0c8951c1cf)"
+
